@@ -1,3 +1,5 @@
+Нужно зарегистрироваться [здесь](https://github.com) 
+
 [Документация git](https://git-scm.com/book/ru/v1/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git)
 
 [Скачать git](https://git-scm.com/downloads)
